@@ -1,0 +1,45 @@
+body{
+  
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 10px;
+    font-weight: 3  ;
+    color: white;
+    padding: 0; 
+    margin: 0; 
+    background: url('\spaceBunniesFall2020\assets\images\abstractblack.jpg') rgb(19, 19, 20);
+}
+h1{
+    text-align: center;
+    font-family: "Papyrus" ;
+    font-size: 45px;
+    background-color: black;
+    border: 20px solid grey;
+    padding-top: 0%;
+}
+.block{
+    font-size: 30px;
+    background-color: maroon;
+}
+
+section#game {
+    width: 1300px; 
+    height: 700px; 
+}
+
+section#scoreBoard .scoreB{
+    display: block;
+    scroll-padding-bottom: 50%;
+    margin: 0 auto 0 auto;
+    font-size: 30px;
+    text-align: left;
+    width: 50%;
+    cursor: pointer;
+    color: yellow;
+    top: 1500px; 
+    position: fixed; 
+}
+
+section#scoreBoard .scoreB .high-scores{
+    text-align: left;
+}
