@@ -75,7 +75,7 @@ Points, Health, Game Duration System
 
 Here's a demonstration of full game:
 
-<img src='https://www.youtube.com/watch?v=H1F_hmXV3FY&feature=youtu.be' title='Video Demo' width='' alt='Video Demo' />
+<img href='https://www.youtube.com/watch?v=H1F_hmXV3FY&feature=youtu.be' title='Video Demo' width='' alt='Video Demo' />
 
 
 
