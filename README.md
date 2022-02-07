@@ -76,7 +76,7 @@ Points, Health, Game Duration System
 Here's a demonstration of full game:
 
 [![Watch the video](https://www.youtube.com/watch?v=H1F_hmXV3FY&feature=youtu.be)](https://www.youtube.com/watch?v=H1F_hmXV3FY&feature=youtu.be)
-
+[![asciicast](https://www.youtube.com/watch?v=H1F_hmXV3FY&feature=youtu.be)](https://www.youtube.com/watch?v=H1F_hmXV3FY&feature=youtu.be)
 
 ## Notes
 Time frame given for this game was three weeks and languages used are a combination of HTML, CSS,
